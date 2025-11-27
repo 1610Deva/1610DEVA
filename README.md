@@ -6,7 +6,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=1610deva&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=1610deva&theme=algolia&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=1610deva&theme=radical&no-frame=true&no-bg=false&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -49,7 +49,6 @@
 ### Backend Development
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Design Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -58,8 +57,8 @@
 
 ### Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 </div>
 
@@ -68,12 +67,13 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api? username=1610deva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats. vercel.app/api/top-langs?username=1610deva&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170" />
-</div>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1610deva&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1610deva&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1610deva&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1610deva&theme=radical&hide_border=false)
+
 </div>
 
 ---
@@ -81,11 +81,7 @@
 <div align="center">
 
 ### 💭 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🐍 Contribution Graph
-![Snake animation](https://raw.githubusercontent.com/1610Deva/1610Deva/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Snake animation](https://raw.githubusercontent.com/1610Deva/1610Deva/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
