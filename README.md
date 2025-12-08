@@ -11,7 +11,7 @@
 - 📫 Reach me: **nandanadevadatta161006@gmail.com**
 - ⚡ Fun fact: **I'm a Manchester United & Mercedes Fan**
   
-</div>div>
+</div>
 ---
 
 ## 🌐 Connect with Me
