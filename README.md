@@ -6,7 +6,7 @@
 ## 🚀 About Me
 <div>
   
-- 🌱 Currently learning **Next.js, Laravel, Vue.js**
+- 🌱 Currently learning **Next.js, Laravel, Sveltekit, Typescript**
 - 👨‍💻 Portfolio: [devadattaporto.vercel.app](https://devadattaporto.vercel.app/)
 - 📫 Reach me: **nandanadevadatta161006@gmail.com**
 - ⚡ Fun fact: **I'm a Manchester United & Mercedes Fan**
